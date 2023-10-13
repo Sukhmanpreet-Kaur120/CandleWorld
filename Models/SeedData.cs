@@ -50,7 +50,7 @@ namespace CandleWorld.Models
 
                     new Candle
                     {
-                        Name = "Roseline",
+                        Name = "cineman",
                         Tradingdate = DateTime.Parse("2023-11-11"),
                         Fragrance = "Rose",
                         Wax = "beeswax",
@@ -59,7 +59,7 @@ namespace CandleWorld.Models
 
                     new Candle
                     {
-                        Name = "Roseline",
+                        Name = "clay",
                         Tradingdate = DateTime.Parse("2023-08-10"),
                         Fragrance = "Rose",
                         Wax = "beeswax",
@@ -71,7 +71,7 @@ namespace CandleWorld.Models
                         Name = "Roseline",
                         Tradingdate = DateTime.Parse("2023-04-15"),
                         Fragrance = "Rose",
-                        Wax = "",
+                        Wax = "praffin",
                         Price = 19.58m
                     },
 
@@ -95,16 +95,16 @@ namespace CandleWorld.Models
 
                     new Candle
                     {
-                        Name = "",
+                        Name = "PUMPKIN",
                         Tradingdate = DateTime.Parse("2023-11-15"),
-                        Fragrance = "Rose",
+                        Fragrance = "Flower",
                         Wax = "Tallow",
                         Price = 19.58m
                     },
 
                     new Candle
                     {
-                        Name = "Roseline",
+                        Name = "Small candle",
                         Tradingdate = DateTime.Parse("2023-11-15"),
                         Fragrance = "Rose",
                         Wax = "beeswax",
